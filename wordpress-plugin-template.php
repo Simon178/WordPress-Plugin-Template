@@ -2,10 +2,10 @@
 /*
  * Plugin Name: WordPress Plugin Template
  * Version: 1.0
- * Plugin URI: http://www.hughlashbrooke.com/
+ * Plugin URI: https://carl.alber2.com/
  * Description: This is your starter template for your next WordPress plugin.
- * Author: Hugh Lashbrooke
- * Author URI: http://www.hughlashbrooke.com/
+ * Author: Carl Alberto
+ * Author URI: https://carl.alber2.com/
  * Requires at least: 4.0
  * Tested up to: 4.0
  *
@@ -13,7 +13,7 @@
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Hugh Lashbrooke
+ * @author Carl Alberto
  * @since 1.0.0
  */
 
